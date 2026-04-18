@@ -110,7 +110,8 @@ Revenue loss due to cancellations
 
 📷 Dashboard Preview
 
-<img width="1385" height="779" alt="image" src="https://github.com/user-attachments/assets/8232ff01-0021-44f7-9884-efe8aac49214" />
+<img width="1386" height="777" alt="image" src="https://github.com/user-attachments/assets/1663b50e-be94-49be-b54f-5426306f67e1" />
+
 
 
 
